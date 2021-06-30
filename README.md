@@ -1,16 +1,7 @@
 # Welcome to my DA Portfolio Site
 
 ### About Me
-My name is Toby Lee. I am a Postgradute who is undergoing a Career change journey to become a Data Analyst.
-<br/>
-<br/>
-I have completed my **Bachelor of Computer Science** and **Master of Business Analytics** Degree at the University of Wollongong.
-<br/>
-<br/>
-I have also accredited the **Google Data Analytics Professional Certificat** and **Advanced SAS Joint Certificate**.
-<br/>
-<br/>
-This Site have captured all my Protfolio Projects in order to demonstrate my skills and knowledge in regards to Data Analytics. 
+My name is Toby Lee. I am a Postgradute who is undergoing a Career change journey to become a Data Analyst. I have completed my Bachelor of Computer Science and Master of Business Analytics Degree at the University of Wollongong. I have also accredited the Google Data Analytics Professional Certificat and Advanced SAS Joint Certificate. This Site have captured all my Protfolio Projects in order to demonstrate my skills and knowledge in regards to Data Analytics. 
 
 <br/>
 
