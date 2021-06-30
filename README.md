@@ -1,14 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to my DA Portfolio Site
 
-You can use the [editor on GitHub](https://github.com/tobylee12345/TobyLeeProjectSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### About Myself
+My name is Toby Lee. I am a Postgradute who is undergoing a Career change journey to become a Data Analyst.
+<br/>
+<br/>
+I have completed my **Bachelor of Computer Science** and **Master of Business Analytics** Degree at the University of Wollongong.
+<br/>
+<br/>
+I have also accredited the **Google Data Analytics Professional Certificat** and **Advanced SAS Joint Certificate**.
+<br/>
+<br/>
+This Site have captured all my Protfolio Projects in order to demonstrate my skills and knowledge in regards to Data Analytics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Technical Skills
+- **Database:** SQL, MySQL, MSSQL
+- **Programming Language:** Python, R(), C++/C
+- **Data Visualization:** Tableau
+- **Machine Learning:** 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
